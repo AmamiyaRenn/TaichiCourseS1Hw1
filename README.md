@@ -23,3 +23,7 @@
 
 `python3 JuliaSetChangeColor.py`
 `python3 JuliaSetJellyfish.py`
+
+## 存在一些问题
+
+不知道 rgb 项的值的取值范围和对应效果
